@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey there! 👋
+# [![mjiang97 header](https://raw.githubusercontent.com/mjiang97/mjiang97/main/icon/github_bannner.png)](https://www.linkedin.com/in/macy-jiang/)
 
 <!--
 **mjiang97/mjiang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
