@@ -1,4 +1,4 @@
-### [![macy jiang header](https://raw.githubusercontent.com/mjiang97/mjiang97/main/icons/gh-banner.png)](https://www.linkedin.com/in/macy-jiang/)
+<!-- ### [![macy jiang header](https://raw.githubusercontent.com/mjiang97/mjiang97/main/icons/gh-banner.png)](https://www.linkedin.com/in/macy-jiang/) -->
 
 <!-- <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
